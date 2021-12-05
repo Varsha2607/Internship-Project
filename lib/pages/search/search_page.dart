@@ -97,7 +97,7 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                                     changeFromTo
                                         ? DelayedDisplay(
                                             child: Text(
-                                              'Porto Alegre',
+                                              'Mumbai',
                                               style: TextStyle(
                                                 fontSize: 32,
                                                 color: Colors.white,
@@ -106,7 +106,7 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                                           )
                                         : DelayedDisplay(
                                             child: Text(
-                                              'Florianópolis',
+                                              'Bengaluru',
                                               style: TextStyle(
                                                 fontSize: 32,
                                                 color: Colors.white,
@@ -141,7 +141,7 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                                     changeFromTo
                                         ? DelayedDisplay(
                                             child: Text(
-                                              'Florianópolis',
+                                              'Bengaluru',
                                               style: TextStyle(
                                                 fontSize: 32,
                                                 color: Colors.white,
@@ -150,7 +150,7 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                                           )
                                         : DelayedDisplay(
                                             child: Text(
-                                              'Porto Alegre',
+                                              'Mumbai',
                                               style: TextStyle(
                                                 fontSize: 32,
                                                 color: Colors.white,

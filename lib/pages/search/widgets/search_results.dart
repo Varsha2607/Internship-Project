@@ -186,7 +186,7 @@ class _SearchResultsState extends State<SearchResults> {
                         ),
                         Spacer(),
                         Text(
-                          '\$ 129,90',
+                          '\ 12,990',
                           style: TextStyle(
                             color: veppoBlue,
                             fontSize: 20,

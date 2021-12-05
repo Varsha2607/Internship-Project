@@ -45,7 +45,7 @@ class TripsPage extends StatelessWidget {
                           children: [
                             Center(
                               child: Image.asset(
-                                'assets/images/companies_logo/gol_logo.png',
+                                'assets/images/companies_logo/emi_logo.png',
                               ),
                             ),
                             SizedBox(height: 28),
@@ -65,13 +65,13 @@ class TripsPage extends StatelessWidget {
                                       'From',
                                       style: TextStyle(color: veppoLightGrey),
                                     ),
-                                    Text('Porto Alegre'),
+                                    Text('Mumbai'),
                                     SizedBox(height: 28),
                                     Text(
                                       'To',
                                       style: TextStyle(color: veppoLightGrey),
                                     ),
-                                    Text('Florianópolis'),
+                                    Text('Bengaluru'),
                                   ],
                                 ),
                                 Spacer(),

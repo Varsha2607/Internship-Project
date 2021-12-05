@@ -1,7 +1,7 @@
 final flightsAvailableJson = [
   {
     "id": "1",
-    "logo": "assets/images/companies_logo/gol_logo.png",
+    "logo": "assets/images/companies_logo/emi_logo.png",
     "price": 190.90,
     "title": "Brazil to England",
     "seats": [
@@ -117,7 +117,7 @@ final flightsAvailableJson = [
   },
   {
     "id": "2",
-    "logo": "assets/images/companies_logo/latam_logo.png",
+    "logo": "assets/images/companies_logo/Air-India-logo.png",
     "price": 190.90,
     "title": "Brazil to England",
     "seats": [
@@ -134,7 +134,7 @@ final flightsAvailableJson = [
   },
   {
     "id": "3",
-    "logo": "assets/images/companies_logo/gol_logo.png",
+    "logo": "assets/images/companies_logo/emi_logo.png",
     "price": 190.90,
     "title": "Brazil to England",
     "seats": [
@@ -154,7 +154,7 @@ final flightsAvailableJson = [
   },
   {
     "id": "4",
-    "logo": "assets/images/companies_logo/gol_logo.png",
+    "logo": "assets/images/companies_logo/emi_logo.png",
     "price": 190.90,
     "title": "Brazil to England",
     "seats": [
@@ -168,7 +168,7 @@ final flightsAvailableJson = [
   },
   {
     "id": "5",
-    "logo": "assets/images/companies_logo/latam_logo.png",
+    "logo": "assets/images/companies_logo/Air-India-logo.png",
     "price": 190.90,
     "title": "Brazil to England",
     "seats": [
@@ -185,7 +185,7 @@ final flightsAvailableJson = [
   },
   {
     "id": "6",
-    "logo": "assets/images/companies_logo/latam_logo.png",
+    "logo": "assets/images/companies_logo/Air-India-logo.png",
     "price": 190.90,
     "title": "Brazil to England",
     "seats": [

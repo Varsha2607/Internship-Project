@@ -34,7 +34,7 @@ class _LoginPageState extends State<LoginPage> {
                     Icons.contact_mail_outlined,
                     color: Colors.white,
                   ),
-                  labelText: "SSN",
+                  labelText: "User ID",
                   labelStyle: TextStyle(
                     color: Colors.white,
                   ),

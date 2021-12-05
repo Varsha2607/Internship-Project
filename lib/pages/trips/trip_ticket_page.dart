@@ -36,7 +36,7 @@ class TripTicketPage extends StatelessWidget {
                     ),
                     SizedBox(height: 8),
                     Text(
-                      'Total \$49,00',
+                      'Total \4,900',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 12,
@@ -79,7 +79,7 @@ class TripTicketPage extends StatelessWidget {
                       children: [
                         Center(
                           child: Image.asset(
-                            'assets/images/companies_logo/gol_logo.png',
+                            'assets/images/companies_logo/emi_logo.png',
                           ),
                         ),
                         SizedBox(height: 28),
@@ -99,13 +99,13 @@ class TripTicketPage extends StatelessWidget {
                                   'From',
                                   style: TextStyle(color: veppoLightGrey),
                                 ),
-                                Text('Porto Alegre'),
+                                Text('Mumbai'),
                                 SizedBox(height: 28),
                                 Text(
                                   'To',
                                   style: TextStyle(color: veppoLightGrey),
                                 ),
-                                Text('Florianópolis'),
+                                Text('Bengaluru'),
                               ],
                             ),
                             Spacer(),

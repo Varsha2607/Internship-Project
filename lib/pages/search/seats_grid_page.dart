@@ -39,7 +39,7 @@ class _SeatsGridPageState extends State<SeatsGridPage> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      'Porto Alegre',
+                      'Mumbai',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 12,
@@ -47,7 +47,7 @@ class _SeatsGridPageState extends State<SeatsGridPage> {
                     ),
                     SizedBox(height: 8),
                     Text(
-                      'Florianópolis',
+                      'Bengaluru',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 12,
@@ -68,7 +68,7 @@ class _SeatsGridPageState extends State<SeatsGridPage> {
                     ),
                     SizedBox(height: 8),
                     Text(
-                      'Total \$49,00',
+                      'Total \4,900',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 12,
